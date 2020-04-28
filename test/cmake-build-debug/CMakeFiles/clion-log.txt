@@ -1,0 +1,76 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test"
+CMake Error: File /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/player_1.setup_board.txt does not exist.
+CMake Error at CMakeLists.txt:2 (configure_file):
+  configure_file Problem configuring file
+
+
+CMake Error: File /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/player_2.setup_board.txt does not exist.
+CMake Error at CMakeLists.txt:3 (configure_file):
+  configure_file Problem configuring file
+
+
+CMake Error: File /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/test/correct_start_action_board.json does not exist.
+CMake Error at CMakeLists.txt:6 (configure_file):
+  configure_file Problem configuring file
+
+
+CMake Error: File /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/test/correct_fire_message.json does not exist.
+CMake Error at CMakeLists.txt:9 (configure_file):
+  configure_file Problem configuring file
+
+
+CMake Error: File /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/test/correct_hit_action_board.json does not exist.
+CMake Error at CMakeLists.txt:12 (configure_file):
+  configure_file Problem configuring file
+
+
+CMake Error: File /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/test/correct_miss_action_board.json does not exist.
+CMake Error at CMakeLists.txt:15 (configure_file):
+  configure_file Problem configuring file
+
+
+CMake Error: File /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/test/correct_hit_result.json does not exist.
+CMake Error at CMakeLists.txt:18 (configure_file):
+  configure_file Problem configuring file
+
+
+CMake Error: File /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/test/correct_miss_result.json does not exist.
+CMake Error at CMakeLists.txt:21 (configure_file):
+  configure_file Problem configuring file
+
+
+CMake Error: File /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/test/correct_out_of_bounds_result.json does not exist.
+CMake Error at CMakeLists.txt:24 (configure_file):
+  configure_file Problem configuring file
+
+
+dos2unix: /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/player_1.setup_board.txt: No such file or directory
+dos2unix: Skipping /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/player_1.setup_board.txt, not a regular file.
+dos2unix: /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/player_2.setup_board.txt: No such file or directory
+dos2unix: Skipping /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/player_2.setup_board.txt, not a regular file.
+dos2unix: /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_start_action_board.json: No such file or directory
+dos2unix: Skipping /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_start_action_board.json, not a regular file.
+dos2unix: /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_fire_message.json: No such file or directory
+dos2unix: Skipping /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_fire_message.json, not a regular file.
+dos2unix: /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_hit_action_board.json: No such file or directory
+dos2unix: Skipping /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_hit_action_board.json, not a regular file.
+dos2unix: /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_miss_action_board.json: No such file or directory
+dos2unix: Skipping /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_miss_action_board.json, not a regular file.
+dos2unix: /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_hit_result.json: No such file or directory
+dos2unix: Skipping /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_hit_result.json, not a regular file.
+dos2unix: /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_miss_result.json: No such file or directory
+dos2unix: Skipping /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_miss_result.json, not a regular file.
+dos2unix: /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_out_of_bounds_result.json: No such file or directory
+dos2unix: Skipping /mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/test/correct_out_of_bounds_result.json, not a regular file.
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.10)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
+See also "/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/cmake-build-debug/CMakeFiles/CMakeOutput.log".
